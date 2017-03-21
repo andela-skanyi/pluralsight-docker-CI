@@ -3,7 +3,7 @@
 
 deployment:
  dockerhub:
-   branch: master
+   branch: develop
    commands:
      - $andela_plural
 
